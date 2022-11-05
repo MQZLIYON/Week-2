@@ -9,6 +9,7 @@ mongoClient.connect(url,function (error,dataInsert) {
     }else {
         console.log("Server run success");
         myDataInter(dataInsert);
+        // daleteData(dataInsert);
     }
 });
 
@@ -21,6 +22,21 @@ function myDataInter(dataInsert) {
             console.log("Data Insert Failed");
         } else {
             console.log("Data Insert Success");
+        }
+    })
+}
+
+
+function daleteData(dataInsert) {
+    var dataBase = dataInsert.db('school');
+    var collection = dataBase.collection('students');
+    var deleteItem = {age:"17"};
+    collection.deleteOne(deleteItem,function (error) {
+        if (error){
+            console.log("Delete Failed");
+        }
+        else {
+            console.log("Delete Success");
         }
     })
 }
