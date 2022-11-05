@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ecb1d8-8973-4a24-aafd-096a17278ba5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/fsWriteData/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/fsWriteData/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/fsWriteData/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/fsWriteData/demo.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,18 +21,23 @@
         <entry file="file://$PROJECT_DIR$/Day 3/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 3/fsWriteData/async.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 3/fsWriteData/async.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Day 3/fsWriteData/demo.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,7 +85,7 @@
     <option name="width" value="784" />
     <option name="height" value="775" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -86,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,10 +105,17 @@
               <item name="Week 2" type="462c0819:PsiDirectoryNode" />
               <item name="Day 3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Week 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 3" type="462c0819:PsiDirectoryNode" />
+              <item name="fsWriteData" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,6 +124,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,6 +176,7 @@
       <workItem from="1667564850128" duration="2282000" />
       <workItem from="1667567800077" duration="4000" />
       <workItem from="1667574066888" duration="6680000" />
+      <workItem from="1667623948817" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1667567420244</created>
@@ -174,12 +189,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10007000" />
+    <option name="totallyTimeSpent" value="10400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,141 +226,32 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_js_day2.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_js_pratice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_js_day2.js" />
+    <entry file="file://$PROJECT_DIR$/node_js_pratice.js" />
     <entry file="file://$PROJECT_DIR$/Day 3/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
-          <folding>
-            <element signature="e#305#311#0" expanded="true" />
-            <element signature="e#311#317#0" expanded="true" />
-            <element signature="e#317#323#0" expanded="true" />
-            <element signature="e#323#329#0" expanded="true" />
-            <element signature="e#329#335#0" expanded="true" />
-            <element signature="e#335#341#0" expanded="true" />
-            <element signature="e#341#347#0" expanded="true" />
-            <element signature="e#347#353#0" expanded="true" />
-            <element signature="e#353#359#0" expanded="true" />
-            <element signature="e#359#365#0" expanded="true" />
-            <element signature="e#365#371#0" expanded="true" />
-            <element signature="e#371#377#0" expanded="true" />
-            <element signature="e#377#383#0" expanded="true" />
-            <element signature="e#383#389#0" expanded="true" />
-            <element signature="e#389#395#0" expanded="true" />
-            <element signature="e#395#401#0" expanded="true" />
-            <element signature="e#401#407#0" expanded="true" />
-            <element signature="e#407#413#0" expanded="true" />
-            <element signature="e#413#419#0" expanded="true" />
-            <element signature="e#422#428#0" expanded="true" />
-            <element signature="e#428#434#0" expanded="true" />
-            <element signature="e#434#440#0" expanded="true" />
-            <element signature="e#440#446#0" expanded="true" />
-            <element signature="e#446#452#0" expanded="true" />
-            <element signature="e#452#458#0" expanded="true" />
-            <element signature="e#458#464#0" expanded="true" />
-            <element signature="e#464#470#0" expanded="true" />
-            <element signature="e#470#476#0" expanded="true" />
-            <element signature="e#476#482#0" expanded="true" />
-            <element signature="e#482#488#0" expanded="true" />
-            <element signature="e#488#494#0" expanded="true" />
-            <element signature="e#494#500#0" expanded="true" />
-            <element signature="e#500#506#0" expanded="true" />
-            <element signature="e#506#512#0" expanded="true" />
-            <element signature="e#512#518#0" expanded="true" />
-            <element signature="e#518#524#0" expanded="true" />
-            <element signature="e#524#530#0" expanded="true" />
-            <element signature="e#530#536#0" expanded="true" />
-            <element signature="e#539#545#0" expanded="true" />
-            <element signature="e#545#551#0" expanded="true" />
-            <element signature="e#551#557#0" expanded="true" />
-            <element signature="e#557#563#0" expanded="true" />
-            <element signature="e#563#569#0" expanded="true" />
-            <element signature="e#569#575#0" expanded="true" />
-            <element signature="e#575#581#0" expanded="true" />
-            <element signature="e#581#587#0" expanded="true" />
-            <element signature="e#587#593#0" expanded="true" />
-            <element signature="e#593#599#0" expanded="true" />
-            <element signature="e#599#605#0" expanded="true" />
-            <element signature="e#605#611#0" expanded="true" />
-            <element signature="e#611#617#0" expanded="true" />
-            <element signature="e#617#623#0" expanded="true" />
-            <element signature="e#623#629#0" expanded="true" />
-            <element signature="e#629#635#0" expanded="true" />
-            <element signature="e#635#641#0" expanded="true" />
-            <element signature="e#641#647#0" expanded="true" />
-            <element signature="e#647#653#0" expanded="true" />
-            <element signature="e#656#662#0" expanded="true" />
-            <element signature="e#662#668#0" expanded="true" />
-            <element signature="e#668#674#0" expanded="true" />
-            <element signature="e#674#680#0" expanded="true" />
-            <element signature="e#680#686#0" expanded="true" />
-            <element signature="e#686#692#0" expanded="true" />
-            <element signature="e#692#698#0" expanded="true" />
-            <element signature="e#698#704#0" expanded="true" />
-            <element signature="e#704#710#0" expanded="true" />
-            <element signature="e#710#716#0" expanded="true" />
-            <element signature="e#716#722#0" expanded="true" />
-            <element signature="e#722#728#0" expanded="true" />
-            <element signature="e#728#734#0" expanded="true" />
-            <element signature="e#734#740#0" expanded="true" />
-            <element signature="e#740#746#0" expanded="true" />
-            <element signature="e#746#752#0" expanded="true" />
-            <element signature="e#752#758#0" expanded="true" />
-            <element signature="e#758#764#0" expanded="true" />
-            <element signature="e#764#770#0" expanded="true" />
-            <element signature="e#826#832#0" expanded="true" />
-            <element signature="e#832#838#0" expanded="true" />
-            <element signature="e#838#844#0" expanded="true" />
-            <element signature="e#844#850#0" expanded="true" />
-            <element signature="e#876#882#0" expanded="true" />
-            <element signature="e#882#888#0" expanded="true" />
-            <element signature="e#888#894#0" expanded="true" />
-            <element signature="e#894#900#0" expanded="true" />
-            <element signature="e#929#935#0" expanded="true" />
-            <element signature="e#935#941#0" expanded="true" />
-            <element signature="e#941#947#0" expanded="true" />
-            <element signature="e#947#953#0" expanded="true" />
-            <element signature="e#977#983#0" expanded="true" />
-            <element signature="e#983#989#0" expanded="true" />
-            <element signature="e#989#995#0" expanded="true" />
-            <element signature="e#995#1001#0" expanded="true" />
-            <element signature="e#1442#1448#0" expanded="true" />
-            <element signature="e#1448#1454#0" expanded="true" />
-            <element signature="e#1454#1460#0" expanded="true" />
-            <element signature="e#1460#1466#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/fsWriteData/async.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="287">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/fsWriteData/demo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
